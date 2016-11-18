@@ -1,0 +1,93 @@
+* {
+	background: white;
+}
+
+ul li {
+	display: inline;
+	text-align: center;
+	margin: 50px;
+	padding: 90px;
+	color: white;
+	
+}
+a {
+	color: red;
+}
+
+a:hover {
+	color: green;
+}
+a:link {
+
+
+}
+a:visited {
+	color: red;
+
+
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	padding-top: 50px;
+	color: red;
+
+}
+
+h4 {
+	text-align: center;
+}
+
+p {
+	font-family: 'Droid Serif', serif;
+
+
+}
+.headpic {
+	display: center;
+	height: 200px;
+	width: 200px;
+	position: ;
+}
+
+.nav {
+	color: ;
+}
+
+.foot {
+	height: 100px;
+}
+
+.copy {
+	text-align: center;
+}
+.add {
+	text-align: center;
+}
+.column1 {
+	text-align: center;
+}
+
+#col {
+-moz-column-count:1;
+-webkit-column-count: 1;
+column-count: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.date {
+	text-align: center;
+}
+
+
